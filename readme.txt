@@ -6,3 +6,4 @@ aha, create remote repository successfully
 create new branch dev
 modification to readme from branch dev
 modification again to readme from dev test confilict
+modification from dev test conflict
