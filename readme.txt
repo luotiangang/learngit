@@ -7,3 +7,4 @@ create new branch dev
 modification to readme from branch dev
 modification again to readme from dev test confilict
 modification from master test conflict 6.30
+testing conflict
