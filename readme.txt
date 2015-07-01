@@ -6,5 +6,5 @@ aha, create remote repository successfully
 create new branch dev
 modification to readme from branch dev
 modification again to readme from dev test confilict
-modification from master test conflict 6.30
+modification from master test conflict 6.30,modified on 7.1
 tseting again conflict, on 7.1 haha
